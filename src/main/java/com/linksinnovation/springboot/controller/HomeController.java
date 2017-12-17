@@ -17,6 +17,8 @@ public class HomeController {
     @RequestMapping(method = RequestMethod.GET)
     public String home(Model model) {
 
+        //Thalerngsak add
+
 //        Comment comment = new Comment();
 //
 //        comment.setComment("this is comment");
